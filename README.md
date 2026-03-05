@@ -25,6 +25,11 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções efici
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+---
+
+### 🔥 Minha Sequência de Código
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=enzofernandesnz&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
