@@ -27,9 +27,13 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções efici
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ---
 
-### 🔥 Minha Sequência de Código
+### 🔥 Estatísticas do GitHub:
+<div align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=enzofernandesnz&theme=radical&hide_border=true)](https://git.io/streak-stats)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enzofernandesnz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzofernandesnz&layout=compact&langs_count=5&theme=dark"/>
+</div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=enzofernandesnz&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
