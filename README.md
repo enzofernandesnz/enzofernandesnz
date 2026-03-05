@@ -6,6 +6,8 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções efici
 🏫 Técnico em Informática formado pelo **Cotemig**
 💻 Atualmente a construir projetos e a aprimorar os meus conhecimentos em **C#, PHP (Laravel), Python** e arquitetura de redes.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/enzo-fernandes-dev)
+
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
