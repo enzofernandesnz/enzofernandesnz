@@ -1,4 +1,4 @@
-## Enzo Fernandes Alcantara
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9612F7&width=435&lines=Enzo+Fernandes+Alcantara)](https://git.io/typing-svg)
 
 🎓 Estudante do 1º período de **Engenharia de Software (PUC)**
 🏫 Técnico em Informática formado pelo **Cotemig**
@@ -21,7 +21,6 @@
 
 **Ferramentas & Sistemas Operativos:**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
