@@ -33,7 +33,9 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções efici
 
 ### 🔥 Estatísticas do GitHub:
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=enzofernandesnz&theme=radical&hide_border=true)
-
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzofernandesnz)](https://github.com/anuraghazra/github-readme-stats)
+  
 ---
 
 ### 🐍 Minhas Contribuições
