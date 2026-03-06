@@ -34,7 +34,6 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções efici
 ### 🔥 Estatísticas do GitHub:
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=enzofernandesnz&theme=radical&hide_border=true)
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=enzofernandesnz&show_icons=true&hide_border=true" />
 ---
 
 ### 🐍 Minhas Contribuições
