@@ -27,6 +27,8 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções efici
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+![Alt](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=7289DA)
 ---
 
 ### 🔥 Estatísticas do GitHub:
