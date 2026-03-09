@@ -32,7 +32,12 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções efici
 ---
 
 ### 🔥 Estatísticas do GitHub:
+<tr>
+
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=enzofernandesnz&theme=radical&hide_border=true)
+  
+</tr>
+  
 
 ---
 
