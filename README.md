@@ -1,4 +1,4 @@
-**[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9612F7&width=435&lines=Enzo+Fernandes+Alcantara)](https://git.io/typing-svg)**
+**[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9612F7&width=435&lines=Enzo+Fernandes+Alcantara)]**
 
 Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções eficientes e resolver problemas através do código. Tenho experiência prática em desenvolvimento web e sistemas, atuando tanto no front-end como no back-end.
 
