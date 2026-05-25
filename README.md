@@ -37,8 +37,6 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções efici
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=enzofernandesnz&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzofernandesnz&layout=compact&theme=radical&hide_border=true)
-
 </div>
 
 ---
