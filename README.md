@@ -29,12 +29,23 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções efici
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+
 ---
 
 ### 🔥 Estatísticas do GitHub:
 <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=enzofernandesnz&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+### 📈 Gráfico de Atividades
+
+<div align="center">
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=enzofernandesnz&theme=react-dark&hide_border=true)
 
 </div>
 
@@ -49,6 +60,3 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções efici
     <img alt="Animação da Cobrinha do GitHub" src="https://raw.githubusercontent.com/enzofernandesnz/enzofernandesnz/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
----
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=enzofernandesnz&theme=react-dark)
