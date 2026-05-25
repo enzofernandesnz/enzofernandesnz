@@ -1,6 +1,6 @@
 **![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9612F7&width=435&lines=Enzo+Fernandes+Alcantara)**
 
-Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções eficientes e resolver problemas através do código. Tenho experiência prática em desenvolvimento web e sistemas, atuando tanto no front-end como no back-end.
+Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções eficientes e resolver problemas através do código. Tenho experiência prática em desenvolvimento web e sistemas, atuand[...]
 
 🎓 Estudante do 1º período de **Engenharia de Software (PUC)**
 🏫 Técnico em Informática formado pelo **Cotemig**
@@ -34,16 +34,19 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções efici
 
 ### 🔥 Estatísticas do GitHub:
 <div align="center">
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=enzofernandesnz&theme=radical&hide_border=true)
-  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=enzofernandesnz&theme=radical&hide_border=true)
+
 </div>
 
 ---
 
 ### 🐍 Minhas Contribuições
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enzofernandesnz/enzofernandesnz/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enzofernandesnz/enzofernandesnz/output/github-contribution-grid-snake.svg">
-  <img alt="Animação da Cobrinha do GitHub" src="https://raw.githubusercontent.com/enzofernandesnz/enzofernandesnz/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enzofernandesnz/enzofernandesnz/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enzofernandesnz/enzofernandesnz/output/github-contribution-grid-snake.svg">
+    <img alt="Animação da Cobrinha do GitHub" src="https://raw.githubusercontent.com/enzofernandesnz/enzofernandesnz/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
