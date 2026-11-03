@@ -93,3 +93,27 @@ Sou estudante de **Engenharia de Software na PUC Minas** e técnico em Informát
 [Conheça meu portfólio ↗](https://enzofernandesnz.github.io/portfolio-nz/) &nbsp; · &nbsp; [Conecte-se no LinkedIn ↗](https://www.linkedin.com/in/enzo-fernandes-dev)
 
 </div>
+
+---
+
+<details>
+<summary>💼 LinkedIn · Enzo Fernandes</summary>
+
+[Veja minha trajetória no LinkedIn](https://www.linkedin.com/in/enzo-fernandes-dev)
+
+</details>
+
+```text
+███╗   ██╗███████╗
+████╗  ██║╚══███╔╝
+██╔██╗ ██║  ███╔╝
+██║╚██╗██║ ███╔╝
+██║ ╚████║███████╗
+╚═╝  ╚═══╝╚══════╝
+```
+
+<div align="center">
+  <img alt="Valeu pela visita! Até a próxima." src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1400&amp;color=17F77D&amp;center=true&amp;width=435&amp;lines=%2F%2F+Valeu+pela+visita%21;%2F%2F+At%C3%A9+a+pr%C3%B3xima%21" />
+</div>
+
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&amp;height=100&amp;color=B0B0B0&amp;section=footer" />
