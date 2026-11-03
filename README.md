@@ -2,6 +2,8 @@
 
 # Olá, eu sou Enzo Fernandes 👋
 
+![Enzo Fernandes Alcantara](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9612F7&center=true&width=435&lines=Enzo+Fernandes+Alcantara)
+
 **Desenvolvedor • Estudante de Engenharia de Software • Criador de soluções web**
 
 Transformando ideias em interfaces, sistemas e experiências digitais.
@@ -19,8 +21,11 @@ Transformando ideias em interfaces, sistemas e experiências digitais.
 Sou estudante de **Engenharia de Software na PUC Minas** e técnico em Informática pelo **COTEMIG**. Gosto de tirar ideias do papel, combinar desenvolvimento e design e aprender construindo projetos que resolvem problemas reais.
 
 - 🌱 Explorando desenvolvimento web, sistemas e novas tecnologias.
+- 📚 Aprofundo meus conhecimentos em C#, PHP (Laravel), Python e arquitetura de redes.
 - 🛠️ Experiência em projetos com **Java, C#, PHP, Python e JavaScript**.
 - 🤝 Aberto a trocar ideias e colaborar em projetos.
+
+---
 
 ### ⚡ Tecnologias que fazem parte da minha jornada
 
@@ -47,6 +52,9 @@ Sou estudante de **Engenharia de Software na PUC Minas** e técnico em Informát
 ![Git](https://img.shields.io/badge/Git-172E24?style=flat-square&logo=git&logoColor=C9F27B)
 ![GitHub](https://img.shields.io/badge/GitHub-172E24?style=flat-square&logo=github&logoColor=C9F27B)
 ![Linux](https://img.shields.io/badge/Linux-172E24?style=flat-square&logo=linux&logoColor=C9F27B)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+---
 
 ### 🚀 Projetos em destaque
 
@@ -56,6 +64,15 @@ Sou estudante de **Engenharia de Software na PUC Minas** e técnico em Informát
 | [**MEchanic**](https://github.com/enzofernandesnz/MEchanic-dev) | Projeto em equipe voltado ao universo de oficinas mecânicas. | PHP · Laravel · SQLite |
 | [**AlugaMais**](https://github.com/enzofernandesnz/sistema-aluguel-carros) | Protótipo acadêmico para locação de carros. | React · Java · Spring Boot · PostgreSQL |
 | [**Portfólio NZ**](https://github.com/enzofernandesnz/portfolio-nz) | Meu espaço para compartilhar projetos, trajetória e experiências. | HTML · CSS · JavaScript |
+
+---
+
+### 🔥 Estatísticas do GitHub
+<div align="center">
+
+![Sequência de contribuições no GitHub](https://streak-stats.demolab.com/?user=enzofernandesnz&theme=radical&hide_border=true&locale=pt_BR)
+
+</div>
 
 ### 🐍 Minhas Contribuições
 
