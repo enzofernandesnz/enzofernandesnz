@@ -83,6 +83,14 @@ Sou estudante de **Engenharia de Software na PUC Minas** e técnico em Informát
 
 </div>
 
+#### Linguagens mais usadas nos meus repositórios
+
+<div align="center">
+  <img alt="Barras por porcentagem" width="350" src="https://helio-github-stats.vercel.app/api/top-langs?username=enzofernandesnz&amp;layout=normal&amp;stats_format=percentages&amp;theme=dark&amp;card_width=350&amp;locale=pt-br&amp;custom_title=Linguagens+mais+usadas&amp;langs_count=9" />
+  <img alt="Gráfico de pizza por porcentagem" width="300" src="https://helio-github-stats.vercel.app/api/top-langs?username=enzofernandesnz&amp;layout=pie&amp;stats_format=percentages&amp;theme=dark&amp;card_width=300&amp;locale=pt-br&amp;custom_title=Linguagens+mais+usadas&amp;langs_count=9" />
+  <img alt="Gráfico de rosca por volume de código" width="300" src="https://helio-github-stats.vercel.app/api/top-langs?username=enzofernandesnz&amp;layout=donut-vertical&amp;stats_format=bytes&amp;theme=dark&amp;card_width=300&amp;locale=pt-br&amp;custom_title=Linguagens+mais+usadas&amp;langs_count=9" />
+</div>
+
 ### 🐍 Minhas Contribuições
 
 <div align="center">
