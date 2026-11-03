@@ -57,6 +57,18 @@ Sou estudante de **Engenharia de Software na PUC Minas** e técnico em Informát
 | [**AlugaMais**](https://github.com/enzofernandesnz/sistema-aluguel-carros) | Protótipo acadêmico para locação de carros. | React · Java · Spring Boot · PostgreSQL |
 | [**Portfólio NZ**](https://github.com/enzofernandesnz/portfolio-nz) | Meu espaço para compartilhar projetos, trajetória e experiências. | HTML · CSS · JavaScript |
 
+### 🐍 Minhas Contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enzofernandesnz/enzofernandesnz/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enzofernandesnz/enzofernandesnz/output/github-contribution-grid-snake.svg">
+    <img alt="Animação da Cobrinha do GitHub" src="https://raw.githubusercontent.com/enzofernandesnz/enzofernandesnz/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
 <div align="center">
 
 **Gostou de algum projeto? Vamos conversar!**
