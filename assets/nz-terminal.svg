@@ -1,12 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="156" viewBox="0 0 900 156" role="img" aria-labelledby="title">
   <title id="title">NZ em estilo terminal</title>
   <rect width="900" height="156" rx="10" fill="#151b23"/>
-  <g fill="#f0f6fc" font-family="monospace" font-size="18" text-anchor="middle" xml:space="preserve">
-    <text x="450" y="36">███╗   ██╗███████╗</text>
-    <text x="450" y="55">████╗  ██║╚══███╔╝</text>
-    <text x="450" y="74">██╔██╗ ██║  ███╔╝</text>
-    <text x="450" y="93">██║╚██╗██║ ███╔╝</text>
-    <text x="450" y="112">██║ ╚████║███████╗</text>
-    <text x="450" y="131">╚═╝  ╚═══╝╚══════╝</text>
+  <g transform="translate(370 39)">
+    <path id="letters" d="M0 0h22v11h11v11h11v11h11V0h22v77H55V55H44V44H33V33H22v44H0z M94 0h66v22h-11v11h-11v11h-11v11h-11v11h44v11H94V55h11V44h11V33h11V22h11V11H94z" fill="#f0f6fc"/>
   </g>
 </svg>
