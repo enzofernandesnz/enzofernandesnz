@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/nz-terminal.svg" width="900" alt="NZ em estilo terminal" />
+  <img src="https://raw.githubusercontent.com/enzofernandesnz/enzofernandesnz/3c3c748f8f948ef4e4d26617e0d7f712a432a6ee/assets/nz-terminal.svg" width="900" alt="NZ em estilo terminal" />
 </p>
 
 <div align="center">
