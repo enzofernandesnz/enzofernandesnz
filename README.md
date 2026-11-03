@@ -1,11 +1,6 @@
-```text
-███╗   ██╗███████╗
-████╗  ██║╚══███╔╝
-██╔██╗ ██║  ███╔╝
-██║╚██╗██║ ███╔╝
-██║ ╚████║███████╗
-╚═╝  ╚═══╝╚══════╝
-```
+<p align="center">
+  <img src="./assets/nz-terminal.svg" width="900" alt="NZ em estilo terminal" />
+</p>
 
 <div align="center">
 
